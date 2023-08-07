@@ -1,4 +1,4 @@
-# Powe-BI-Projects
+# Power-BI-Projects
 
 ## Data Analysis With Power BI
 ### Techniques and Tools
